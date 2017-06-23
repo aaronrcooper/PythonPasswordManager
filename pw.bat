@@ -1,2 +1,2 @@
-@py.exe C:\Python36-32\passwordManager.py %*
+@py.exe D:\Coding\Python_Playground\Formatting_Strings\Password_Project\passwordManager.py %*
 @pause
